@@ -1,13 +1,13 @@
-# 🛡️ RAKSHAK: AI-Powered Behavioral Cyber-Shield
+# RAKSHAK: AI-Powered Behavioral Cyber-Shield
 
 **Rakshak** (meaning 'Protector') is an advanced cybersecurity intelligence platform designed to detect, analyze, and explain phishing threats in real-time. Built for the next generation of web security, it combines **Behavioral Sandbox Simulation** with **Generative AI (Gemini 2.0)** to provide a human-readable safety report for any URL.
 
 ---
 
-## 🚀 The Problem
+##  The Problem
 Phishing attacks are becoming increasingly sophisticated, often bypassing static filters. Most users are left guessing if a link is safe, and existing tools provide technical data that is incomprehensible to the average person.
 
-## 🛡️ The Solution: Rakshak
+##  The Solution: Rakshak
 Rakshak bridges the gap between expert forensics and user safety.
 1. **Dynamic Isolation**: Instead of just checking a database, Rakshak opens the link in a secure, isolated cloud sandbox.
 2. **Behavioral Tracking**: It monitors network calls, script executions, and form requests to see what the link *actually does*.
@@ -15,7 +15,7 @@ Rakshak bridges the gap between expert forensics and user safety.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - **Neural Scan**: Instant risk quantification (0-100%) with high-fidelity HUD visualization.
 - **Multi-View Intelligence**: Seamless transition from scan input to full intelligence reports.
 - **Simulation Timeline**: A chronological map of exactly what happened inside the sandbox.
@@ -24,7 +24,7 @@ Rakshak bridges the gap between expert forensics and user safety.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: Next.js 14, Tailwind CSS, Framer Motion (Glassmorphism UI)
 - **Backend API**: FastAPI (Python), Uvicorn
 - **Intelligence**: Google Gemini 2.0 Flash (Dynamic Model Detection)
@@ -33,7 +33,7 @@ Rakshak bridges the gap between expert forensics and user safety.
 
 ---
 
-## 📥 Installation & Setup
+## Installation & Setup
 
 ### 1. Prerequisites
 - Node.js (v18+)
@@ -84,7 +84,7 @@ cd frontend && npm install && npm run dev
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 - **Browser Extension**: Real-time protection while browsing.
 - **Threat Sharing**: Community-driven database of analyzed malicious links.
 - **API for Businesses**: Allow companies to integrate Rakshak into their email filters.
